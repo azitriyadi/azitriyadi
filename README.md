@@ -1,4 +1,5 @@
-## Hi there 👋
+##👋 Hi, I'm Aji
+
 
 <!--
 **azitriyadi/azitriyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Aji
-
 💻 Informatics Student | Software Developer in Progress  
 🚀 Focused on Web Development, Desktop Apps, and Backend Logic  
 
